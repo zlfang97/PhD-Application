@@ -1,5 +1,3 @@
-# Zhilan Fang Ph.D. Application Materials
-
 **Table of contents:**
 - [Zhilan Fang Ph.D. Application Materials](#zhilan-fang-phd-application-materials)
     - [1. Application materials](#1-application-materials)
@@ -26,6 +24,7 @@
   * This is a paper about how stay-at-home international students during COVID-19 cope with the conflicting daily rhythms between technology-based remote education and local job hunting, and how this has complicated inequalities even within this supposedly “elite” group.
 
 ### 4. Targeted Sociology programs and deadlines
+
 | Schools | Deadlines |
 | ------------ | -----------|
 | Harvard | Dec 1, 2022 |
