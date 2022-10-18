@@ -8,7 +8,7 @@
 
 ### 1. Application materials
 * [Statement of purpose in Google Doc](https://docs.google.com/document/d/1OLD44HZa6novmWQJ4ovnnrtkapOrDvUyUHUqOowUiTA/edit)
-* [CV](../Data/CV.pdf)
+* [CV](../Data/ZhilanFang_CV_Oct2022.pdf)
 * [Thesis](../Data/ZhilanFang_final_thesis.pdf). Thesis evaluation is A. Please see comments [here](../Data/ZhilanFang_thesisevaluation.pdf).
 * [UChicago transcript](../Data/Transcript_ZhilanFang.pdf) (GPA: 4.0/4.0)
 
